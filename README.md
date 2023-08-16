@@ -51,6 +51,10 @@
   <img alt="Erik-CSS" width="40" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
+<div style="border: 1px solid;">
+  <img width="100%" src="https://github.com/erik-ferreira/erik-ferreira/blob/output/github-snake-dark.svg" />
+</div>
+
 ### Hobbies
 
 <div align="center">
@@ -59,3 +63,5 @@
   <img width="24%" src=".github/hobbies/books.png" />
   <img width="24%" src=".github/hobbies/basquete.png" />
 </div>
+
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erik-ferreira&bg_color=0d1117&color=6EA2F8&line=6EA2F8&point=1d4ed8&area=true&hide_border=true)
