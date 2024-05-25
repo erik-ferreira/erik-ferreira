@@ -1,6 +1,6 @@
 ## Hello, I'm Erik Ferreira
 
-I'm a web developer who loves programming. Currently I'm just studying and trying to change the world through lines of code.
+I'm a web developer who loves programming. I'm currently working and studying to change the world through lines of code.
 
 <div align="center">
   <img src=".github/dashboard.png" width="50%" align="center" />
